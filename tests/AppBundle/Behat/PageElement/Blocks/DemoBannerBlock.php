@@ -20,6 +20,6 @@ class DemoBannerBlock extends BannerBlock
 
     public function getDefaultPreviewData(): array
     {
-        return ['parameter1' => 'http://ez.no', 'parameter2' => 'Bottom-right-banner.jpg'];
+        return ['parameter1' => 'http://ez.no', 'parameter2' => 'bottom-right-banner.jpg'];
     }
 }
