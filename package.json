@@ -9,5 +9,8 @@
   "dependencies": {
     "yarn": "^1.13.0",
     "dotenv-webpack": "^1.7.0"
+  },
+  "resolutions": {
+    "sockjs-client": "1.5.2"
   }
 }
